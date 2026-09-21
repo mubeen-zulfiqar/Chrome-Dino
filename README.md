@@ -1,6 +1,6 @@
 # Chrome-Dino
 
-Historical Assembly learning project from 2023: a clone of the Chrome dinosaur game, exploring low-level game logic and screen output.
+Historical Assembly learning project from 2020: a clone of the Chrome dinosaur game, exploring low-level game logic and screen output.
 
 ## Repository contents
 
